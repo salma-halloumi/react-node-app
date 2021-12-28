@@ -1,3 +1,3 @@
 #React-node app
 
-This is a simple react node app
+This is a simple node app
